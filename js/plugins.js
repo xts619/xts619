@@ -3,6 +3,6 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"WeaponSkill","status":true,"description":"Change skill id of attack for each weapon.","parameters":{}},
-{"name":"KJ_Gobang","status":true,"description":"Gobang. v1.04","parameters":{"VariableId":"1","CancelText":"认输","RegretEnable":"true","Level":"6","Size":"750","Sound":"Break","UI":"UI"}}
+{"name":"KJ_Gobang","status":true,"description":"Gobang. v1.04","parameters":{"VariableId":"1","CancelText":"认输","RegretEnable":"true","Level":"6","Size":"750","Sound":"Break","UI":"UI"}},
+{"name":"KMS_Minimap","status":true,"description":"小地图插件.","parameters":{"Map rect":"515, -20, 300, 300","Grid size":"4","Blink time":"300","Foreground color":"rgba(200, 200, 240, 0.6)","Background color":"rgba(0, 0, 10, 0.6)","Mask style":"4","Mask radius":"50"}}
 ];
